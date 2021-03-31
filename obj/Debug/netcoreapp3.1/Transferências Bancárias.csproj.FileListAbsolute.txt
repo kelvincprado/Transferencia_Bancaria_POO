@@ -1,0 +1,13 @@
+C:\Users\Kelvin\source\DIO.Bank\Transferências Bancárias\bin\Debug\netcoreapp3.1\Transferências Bancárias.exe
+C:\Users\Kelvin\source\DIO.Bank\Transferências Bancárias\bin\Debug\netcoreapp3.1\Transferências Bancárias.deps.json
+C:\Users\Kelvin\source\DIO.Bank\Transferências Bancárias\bin\Debug\netcoreapp3.1\Transferências Bancárias.runtimeconfig.json
+C:\Users\Kelvin\source\DIO.Bank\Transferências Bancárias\bin\Debug\netcoreapp3.1\Transferências Bancárias.runtimeconfig.dev.json
+C:\Users\Kelvin\source\DIO.Bank\Transferências Bancárias\bin\Debug\netcoreapp3.1\Transferências Bancárias.dll
+C:\Users\Kelvin\source\DIO.Bank\Transferências Bancárias\bin\Debug\netcoreapp3.1\Transferências Bancárias.pdb
+C:\Users\Kelvin\source\DIO.Bank\Transferências Bancárias\obj\Debug\netcoreapp3.1\Transferências Bancárias.csprojAssemblyReference.cache
+C:\Users\Kelvin\source\DIO.Bank\Transferências Bancárias\obj\Debug\netcoreapp3.1\Transferências Bancárias.AssemblyInfoInputs.cache
+C:\Users\Kelvin\source\DIO.Bank\Transferências Bancárias\obj\Debug\netcoreapp3.1\Transferências Bancárias.AssemblyInfo.cs
+C:\Users\Kelvin\source\DIO.Bank\Transferências Bancárias\obj\Debug\netcoreapp3.1\Transferências Bancárias.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\DIO.Bank\Transferências Bancárias\obj\Debug\netcoreapp3.1\Transferências Bancárias.dll
+C:\Users\Kelvin\source\DIO.Bank\Transferências Bancárias\obj\Debug\netcoreapp3.1\Transferências Bancárias.pdb
+C:\Users\Kelvin\source\DIO.Bank\Transferências Bancárias\obj\Debug\netcoreapp3.1\Transferências Bancárias.genruntimeconfig.cache
